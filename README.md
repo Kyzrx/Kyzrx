@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS,JavaScript
 
 <div align="right">
-    <img height="30em" src="https://media.tenor.com/tz6lic5ui8wAAAAj/rei-spin.gif">
+    <img height="30em" src="https://media.tenor.com/mzWh-dzSqgwAAAAj/dpog.gif">
 </div>
 
 <!---
